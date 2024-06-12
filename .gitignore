@@ -5,6 +5,8 @@
 !.gitignore
 !.gitkeep
 
+!.editorconfig
+
 !README.md
 
 # ...even if they are in subdirectories.
