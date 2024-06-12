@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# ...but not these files
+!.gitignore
+!.gitkeep
+
+!README.md
+
+# ...even if they are in subdirectories.
+!*/
